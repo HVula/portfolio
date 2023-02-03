@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: rgb(240, 233, 227);
 }
 
 h1 {
@@ -24,9 +24,11 @@ ul {
 ol {
     color: rgb(140, 165, 42);
 }
+
 h2 {
     text-align: center;
 }
+
 h2 {
     color: rgb(129, 29, 187);
 }
